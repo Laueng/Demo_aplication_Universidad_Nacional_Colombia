@@ -1,5 +1,5 @@
 # Demo_aplication_Universidad_Nacional_Colombia
-It´s a litle demo aplication 
+It´s a demo aplication 
 Registro de estudiantes
 La Universidad Nacional de Colombia ha decidido crear un pequeño demo de una aplicación para el registro de estudiantes de pregrado 
 y posgrado. Como información se tiene que todos los estudiantes poseen atributos como nombre, edad, programa en el cual realiza sus estudios y tipo de etnia (indígena,
